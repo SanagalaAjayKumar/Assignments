@@ -1,0 +1,8 @@
+C:\Assignments\C#\CodeBaseQuestuon1\CodeBaseQuestuon1\bin\Debug\CodeBaseQuestuon1.exe.config
+C:\Assignments\C#\CodeBaseQuestuon1\CodeBaseQuestuon1\bin\Debug\CodeBaseQuestuon1.exe
+C:\Assignments\C#\CodeBaseQuestuon1\CodeBaseQuestuon1\bin\Debug\CodeBaseQuestuon1.pdb
+C:\Assignments\C#\CodeBaseQuestuon1\CodeBaseQuestuon1\obj\Debug\CodeBaseQuestuon1.csproj.AssemblyReference.cache
+C:\Assignments\C#\CodeBaseQuestuon1\CodeBaseQuestuon1\obj\Debug\CodeBaseQuestuon1.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\CodeBaseQuestuon1\CodeBaseQuestuon1\obj\Debug\CodeBaseQuestuon1.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\CodeBaseQuestuon1\CodeBaseQuestuon1\obj\Debug\CodeBaseQuestuon1.exe
+C:\Assignments\C#\CodeBaseQuestuon1\CodeBaseQuestuon1\obj\Debug\CodeBaseQuestuon1.pdb
