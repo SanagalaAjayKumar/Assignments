@@ -13,14 +13,12 @@ namespace CodeBaseQuestuon1
             {
                 public String Name { get; set; }
                 public int Age { get; set; }
-                public int date { get; set; }
                 Ticket Ticket { get; set; }
                 public Passenger(string name, int age)
                 {
                     Name = name;
                     Age = age;
                     Ticket = new Ticket();
-                    
                 }
                 public void TicketBooking(int tickets)
                 {
@@ -43,9 +41,11 @@ namespace CodeBaseQuestuon1
             }
             static void Main(string[] args)
             {
+                
                 Passenger passenger = new Passenger("Ajay", 23);
                 Console.WriteLine("Enter the number of tickets want to book");
                 passenger.TicketBooking(int.Parse(Console.ReadLine()));
+       
                 Console.ReadKey();
             }
         }
