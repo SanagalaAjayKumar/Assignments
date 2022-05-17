@@ -1,0 +1,8 @@
+C:\Assignments\C#\Codebasequestion2\Codebasequestion2\bin\Debug\Codebasequestion2.exe.config
+C:\Assignments\C#\Codebasequestion2\Codebasequestion2\bin\Debug\Codebasequestion2.exe
+C:\Assignments\C#\Codebasequestion2\Codebasequestion2\bin\Debug\Codebasequestion2.pdb
+C:\Assignments\C#\Codebasequestion2\Codebasequestion2\obj\Debug\Codebasequestion2.csproj.AssemblyReference.cache
+C:\Assignments\C#\Codebasequestion2\Codebasequestion2\obj\Debug\Codebasequestion2.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Codebasequestion2\Codebasequestion2\obj\Debug\Codebasequestion2.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Codebasequestion2\Codebasequestion2\obj\Debug\Codebasequestion2.exe
+C:\Assignments\C#\Codebasequestion2\Codebasequestion2\obj\Debug\Codebasequestion2.pdb
