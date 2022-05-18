@@ -95,6 +95,3 @@ Where ename='SMITH';
 Select ename,salary from employee
 where salary between 1500 and 2850;
 
-
-
-
