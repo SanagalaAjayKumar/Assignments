@@ -1,0 +1,8 @@
+C:\Assignments\Code Base Retest\Code base Retest\Code base Retest\bin\Debug\Code base Retest.exe.config
+C:\Assignments\Code Base Retest\Code base Retest\Code base Retest\bin\Debug\Code base Retest.exe
+C:\Assignments\Code Base Retest\Code base Retest\Code base Retest\bin\Debug\Code base Retest.pdb
+C:\Assignments\Code Base Retest\Code base Retest\Code base Retest\obj\Debug\Code base Retest.csproj.AssemblyReference.cache
+C:\Assignments\Code Base Retest\Code base Retest\Code base Retest\obj\Debug\Code base Retest.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\Code Base Retest\Code base Retest\Code base Retest\obj\Debug\Code base Retest.csproj.CoreCompileInputs.cache
+C:\Assignments\Code Base Retest\Code base Retest\Code base Retest\obj\Debug\Code base Retest.exe
+C:\Assignments\Code Base Retest\Code base Retest\Code base Retest\obj\Debug\Code base Retest.pdb
