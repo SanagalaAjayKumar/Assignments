@@ -1,0 +1,36 @@
+
+--MINI_PROJECT
+
+create database StudentDetails
+use StudentDetails
+
+
+create table Courses
+(CourseId int primary key,CourseName varchar(15),Courseduration int, Coursefees float)
+
+
+insert into Courses values(101,'Java',38,35000),(102,'Python',45,42000),(103,'Azure',25,40000);
+
+
+select * from Courses
+
+
+create table Students
+(StudentId int primary key,StudentName varchar(15),studentDOB date)
+
+
+insert into Students values(10,'Ajay','10/1/1999'),
+(20,'Rajesh','02/04/1999'),
+(30,'Somesh','06/08/1997')
+
+select * from Students
+
+create table EnrollDetails
+(Courseid int foreign key references Courses(CourseId),
+StudentId int foreign key references Students(StudentId),
+EnrollDate date)
+
+insert into EnrollDetails values(101,10,'2022/5/1'),
+(102,20,'2022/07/02'),(103,30,'2022/6/09')
+
+select * from EnrollDetails

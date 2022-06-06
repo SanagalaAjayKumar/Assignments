@@ -1,0 +1,8 @@
+C:\Assignments\Mini_Project\Case_Study\Case_Study\bin\Debug\Case_Study.exe.config
+C:\Assignments\Mini_Project\Case_Study\Case_Study\bin\Debug\Case_Study.exe
+C:\Assignments\Mini_Project\Case_Study\Case_Study\bin\Debug\Case_Study.pdb
+C:\Assignments\Mini_Project\Case_Study\Case_Study\obj\Debug\Case_Study.csproj.AssemblyReference.cache
+C:\Assignments\Mini_Project\Case_Study\Case_Study\obj\Debug\Case_Study.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\Mini_Project\Case_Study\Case_Study\obj\Debug\Case_Study.csproj.CoreCompileInputs.cache
+C:\Assignments\Mini_Project\Case_Study\Case_Study\obj\Debug\Case_Study.exe
+C:\Assignments\Mini_Project\Case_Study\Case_Study\obj\Debug\Case_Study.pdb
