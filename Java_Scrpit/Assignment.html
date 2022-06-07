@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment_1</title>
+</head>
+<body>
+
+<!--1 quastion-->
+    <h1>Sample From</h1>
+    1st Number: <input id="mul" type="text" size="15" /><br /><br />
+    2nd Number: <input id="div" type="text" size="15" /><br /><br />
+    
+    <button onclick="multiply()">multiply</button>
+    <button onclick="divide()">Divide</button>
+    
+    <div id="result"></div>
+    <script type="text/javascript">
+    function multiply() {
+    var one = document.getElementById("mul").value;
+    var two = document.getElementById("div").value;
+    document.getElementById('result').innerHTML = 'The result is :' + one * two;
+    }
+    function divide() {
+    var one = document.getElementById("mul").value;
+    var two = document.getElementById("div").value;
+    document.getElementById('result').innerHTML = 'The result is:' + one % two;
+    }
+    </script>
+        
+
+</body>
+</html>

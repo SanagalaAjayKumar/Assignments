@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment_1</title>
+</head>
+<body>
+    <!--2 quastion-->
+    Enter Number 1: <input id="num1" type="text" size="20"/><br /><br />
+    Enter Number 2: <input id="num2" type="text" size="20"/><br /><br />
+    <div id="result"></div>
+    <button onclick ="sum()">Result</button>
+    <script type="text/javascript">
+        function sum() {
+            var num1 = parseInt(document.getElementById("num1").value);
+            var num2 = parseInt(document.getElementById("num2").value);
+            if (num1 === num2) {
+                document.getElementById('result').innerHTML = 'The result is:' + (num1 + num2) * 3;
+            }
+            else {
+                document.getElementById('result').innerHTML = 'The result is:' + (num1 + num2);
+            }
+        }
+    </script>
+
+</body>
+</html>
